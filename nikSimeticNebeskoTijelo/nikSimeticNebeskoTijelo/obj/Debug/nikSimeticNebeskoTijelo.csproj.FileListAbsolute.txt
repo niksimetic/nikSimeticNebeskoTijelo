@@ -1,0 +1,6 @@
+C:\Users\Nik\source\repos\nikSimeticNebeskoTijelo\nikSimeticNebeskoTijelo\bin\Debug\nikSimeticNebeskoTijelo.exe.config
+C:\Users\Nik\source\repos\nikSimeticNebeskoTijelo\nikSimeticNebeskoTijelo\bin\Debug\nikSimeticNebeskoTijelo.exe
+C:\Users\Nik\source\repos\nikSimeticNebeskoTijelo\nikSimeticNebeskoTijelo\bin\Debug\nikSimeticNebeskoTijelo.pdb
+C:\Users\Nik\source\repos\nikSimeticNebeskoTijelo\nikSimeticNebeskoTijelo\obj\Debug\nikSimeticNebeskoTijelo.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\nikSimeticNebeskoTijelo\nikSimeticNebeskoTijelo\obj\Debug\nikSimeticNebeskoTijelo.exe
+C:\Users\Nik\source\repos\nikSimeticNebeskoTijelo\nikSimeticNebeskoTijelo\obj\Debug\nikSimeticNebeskoTijelo.pdb
